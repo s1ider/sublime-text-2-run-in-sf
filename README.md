@@ -26,4 +26,5 @@ Usage
 -----
 
 When you editing your test right-mouse click on edit window and select 'Run In Sf'. 
+
 TestLauncher will be started in separate window.
