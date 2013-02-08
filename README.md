@@ -1,5 +1,5 @@
 Sublime Text 2 Plugin: Run in ScriptFramework
-========================
+=============================================
 
 Adds 'Run in SF' in context menu which allows running current ScriptFramework test
 
